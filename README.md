@@ -6,16 +6,16 @@
 
 ## 🚀 Features
 
-- 🔐 **User Authentication** – Secure sign-up and login.
-- ✍️ **Create & Edit Posts** – Full control over your blog content.
-- 💬 **Commenting System** – Let users engage with your posts.
-- 🔍 **Search Functionality** – Easily find posts by keywords or tags.
-- 📱 **Responsive Design** – Looks great on all screen sizes.
-- 🛠️ **Admin Panel** – Manage users, posts, and comments.
+- **User Authentication** – Secure sign-up and login.
+- **Create & Edit Posts** – Full control over your blog content.
+- **Commenting System** – Let users engage with your posts.
+- **Search Functionality** – Easily find posts by keywords or tags.
+- **Responsive Design** – Looks great on all screen sizes.
+- 🛠**Admin Panel** – Manage users, posts, and comments.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -27,7 +27,10 @@
 
 - **Java**
 - **Spring boot**
-- **MySQL]**
+
+### Database
+
+- **MySQL**
 
 
 
